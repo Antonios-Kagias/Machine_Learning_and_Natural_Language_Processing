@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Assignment 4.ipynb
-
+"""
 # **Assignment 4**
 Μη επιβλεπόμενη μάθηση – Συσταδοποίηση
 
