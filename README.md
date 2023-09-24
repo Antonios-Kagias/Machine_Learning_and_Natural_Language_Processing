@@ -1,4 +1,4 @@
-# Machine_Learning_and_Natural_Language_Processing
+# Machine Learning and Natural Language Processing
 
 The projects in this repository were created while working on the course Machine Learning and Natural Language Processing for my postgraduate studies. They include the following:
 
